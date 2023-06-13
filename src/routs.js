@@ -5,7 +5,7 @@ import Menu from './componentes/Menu';
 
 
 
-export default function App() {
+export default function AppRouts() {
   return (
     <div>
       <BrowserRouter>
