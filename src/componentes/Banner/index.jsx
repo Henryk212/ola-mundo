@@ -11,7 +11,7 @@ export default function Banner() {
             Olá, Mundo
         </h1>
         <p className={styles.paragrafo}>
-        Boas vindas ao meu espaço pessoal! Eu sou Henrique Onorato, aluno de Front-end da Alura. Aqui compartilho os projetos desenvolvidos em aula, 
+        Boas vindas ao meu espaço pessoal! Eu sou Henrique Onorato, aluno de Front-end. Aqui compartilho os projetos desenvolvidos em aula, 
         espero que goste ^^
         </p>
       </div>  
