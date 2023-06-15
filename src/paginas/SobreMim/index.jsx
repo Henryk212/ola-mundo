@@ -29,7 +29,7 @@ export default function SobreMim() {
         Informática. Eu aprendi lógica de programação e o básico de várias
         linguagens, como PHP, Python, Java, mas sem aprofundar muito em cada 
         uma delas. Eu gostava muito de estudar programação, mas na época não 
-        fazia ideia de que trabalharia com isso hoje.
+        fazia ideia de que trabalharia com isso hje.
       </p>
       <p className={styles.paragrafo}>
         No ensino superior, escolhi cursar Engenharia Elétrica na Universidade 
